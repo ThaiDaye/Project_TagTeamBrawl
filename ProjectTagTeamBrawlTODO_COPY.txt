@@ -1,0 +1,136 @@
+/player
+
+/target
+
+/range fire
+	charge increases range and accuracy
+
+/melee attack
+	/attack hits in arc (like a shotgun)
+	/pushes player forward slightly
+	
+/swapping
+
+/damage & staggering
+
+
+>tombstone
+/lmb
+	/desecrated ground sphare and sphere 
+/rmb
+/dash
+	/retrieve can pull while its spinning
+/passive
+/COOLDOWNS
+
+KNOCKUP
+/*some hits dont extend knockup
+/*montage for stagger
+
+/shooting enemy projectiles (turret spawner for now)
+/enemy chasing
+
+/shift redirect projectile
+/shiedl redirects and lets out aoe on redirect
+>grav archer
+/lmb
+rmb
+	/throw a sphere that goes forward
+	/if it hits an enemy with an grav arrow,
+	/itll bounce to other enemies with grav arrows and then return (QUICKLY)	  
+	/cooldwon
+/shift
+	/throw orbital device that redirects ally projectiles towards nearby enemies
+passive
+	/remove visual arrows and put a max cap on how many can show up
+
+	/gain arrows from kills or boomerage steals
+	visual for showing arrows around you
+
+/> UI 
+	/show how many arrows are in enemy (3 max)
+/healthbars
+/arrow counter
+
+
+/> demon hammer
+/lmb
+/rmb
+shift
+/empower
+	/more damage
+	/can only execute with light this way
+	/resets combo
+	/empower will dissapear after time
+/health
+/armor value
+/combo count
+/assist cooldowns 
+/current cooldowns
+/> Assists
+/reset attack cooldown
+/go on cooldown
+/do action
+/swap actor (visual show)
+/> enemy attacks
+/melee
+	/walk up take a swing
+/range
+	/get close, if too close back up
+	/shoot slow projectile
+
+/heavy with tele graph
+	/get close do a telegraph ground slam
+> juice
+/hitting - camera shake
+/damage numbers
+/combo counter
+/armor values
+
+
+=============================================
+
+> game should start with air drop onto location with the team (w/ cinema camera)
+
+
+> main gamemode
+objective 
+	time contrainmt
+	enemys spawning
+progression
+	press space to take off again
+	difficulty increase
+	gaining exp
+failing
+	death
+	runnign out of time
+
+constant - kill x enemies
+kill x specific targets
+kill the boss
+defeat x enemies in area
+
+> status resistance meter
+	status only stagger
+	stagger dont stagger
+
+
+
+
+
+> external gamemode
+the friend building gamemode ( coop perk pool )
+personal feats ( personal perk pool )
+
+
+> Tombstone bugs & idea:
+- have shift plant be a small roll forward leaving the tomb behind
+
+> Grav archer bugs & ideas:
+/- boomerange should return to first hit location after all hits
+- shift should prioritize enmies infro of you and roughly the closest
+
+> Demon hammer bugs & ideas:
+- make aoe version of RMB bigger
+
+> swapping should break movement impairs like knockup
